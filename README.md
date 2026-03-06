@@ -1,6 +1,6 @@
 
+# TP7 – IoT System with MQTT + Arduino UNO + DHT22 + LCD + Led + PIR + Cloud Integration
 
-# TP6 – Motion Detection System Using PIR Sensor
 
 ## Objective
 
@@ -56,8 +56,6 @@ When motion stops:
 | +   | Pin 13                |
 | -   | GND                   |
 
--
-
 ---
 
 # Optional Improvements (Advanced Level)
@@ -69,6 +67,20 @@ Students can improve the project by:
 * Sending motion data via MQTT
 * Sending data to a cloud dashboard
 
+# Helpful Resources
+
+## Wokwi Documentation
+
+[https://docs.wokwi.com/](https://docs.wokwi.com/)
+
+
+## Arduino Docs
+
+[https://docs.arduino.cc](https://docs.arduino.cc/programming/?_gl=1*rfb3j8*_up*MQ..*_ga*MjAyNDA5NDM0Ny4xNzcyNzY2NTE2*_ga_NEXN8H46L5*czE3NzI3NjY1MTUkbzEkZzAkdDE3NzI3NjY1MTUkajYwJGwwJGgxNzY4ODA2NzUy)
+
+# Submission Requirements
+
+Students must submit:
 
 ---
 
