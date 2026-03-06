@@ -81,12 +81,6 @@ Students can improve the project by:
 # Submission Requirements
 
 Students must submit:
-
----
-
-# Submission Requirements
-
-Students must submit:
-
+* Wokwi project link OR project folder
 
 
